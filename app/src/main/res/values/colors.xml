@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="Aplus">#0B9800</color>
+    <color name="A">#0FD300</color>
+    <color name="Aminus">#16FF04</color>
+    <color name="Bplus">#91FE05</color>
+    <color name="B">#B9C103</color>
+    <color name="Bminus">#D2CE02</color>
+    <color name="Cplus">#E3DF01</color>
+    <color name="C">#FFFB00</color>
+    <color name="Cminus">#FEDD05</color>
+    <color name="Dplus">#FE9D05</color>
+    <color name="D">#F24D01</color>
+    <color name="Dminus">#FF2D00</color>
+    <color name="F">#FF0000</color>
+</resources>
